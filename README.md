@@ -1,4 +1,4 @@
-# cpp-socket-chat-application
+# cpp Socket Chat Application
 
 A multi-client TCP chat application written in modern C++ (C++17). It
 demonstrates **client–server architecture**, **BSD/POSIX sockets**,
